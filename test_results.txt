@@ -1,0 +1,282 @@
+Test project C:/msys64/home/PAUL/bitcoin-dev/bitcoin/build
+        Start   1: util_test_runner
+  1/137 Test   #1: util_test_runner .....................   Passed    5.96 sec
+        Start   2: util_rpcauth_test
+  2/137 Test   #2: util_rpcauth_test ....................   Passed    0.24 sec
+        Start   3: univalue_test
+  3/137 Test   #3: univalue_test ........................   Passed    0.02 sec
+        Start   4: univalue_object_test
+  4/137 Test   #4: univalue_object_test .................   Passed    0.02 sec
+        Start   5: secp256k1_noverify_tests
+  5/137 Test   #5: secp256k1_noverify_tests .............   Passed   68.67 sec
+        Start   6: secp256k1_tests
+  6/137 Test   #6: secp256k1_tests ......................   Passed  139.28 sec
+        Start   7: secp256k1_exhaustive_tests
+  7/137 Test   #7: secp256k1_exhaustive_tests ...........   Passed   15.17 sec
+        Start   8: addrman_tests
+  8/137 Test   #8: addrman_tests ........................   Passed    0.86 sec
+        Start   9: allocator_tests
+  9/137 Test   #9: allocator_tests ......................   Passed    0.16 sec
+        Start  10: amount_tests
+ 10/137 Test  #10: amount_tests .........................   Passed    0.15 sec
+        Start  11: argsman_tests
+ 11/137 Test  #11: argsman_tests ........................   Passed    2.77 sec
+        Start  12: arith_uint256_tests
+ 12/137 Test  #12: arith_uint256_tests ..................   Passed    0.15 sec
+        Start  13: banman_tests
+ 13/137 Test  #13: banman_tests .........................   Passed    0.16 sec
+        Start  14: base32_tests
+ 14/137 Test  #14: base32_tests .........................   Passed    0.15 sec
+        Start  15: base58_tests
+ 15/137 Test  #15: base58_tests .........................   Passed    0.24 sec
+        Start  16: base64_tests
+ 16/137 Test  #16: base64_tests .........................   Passed    0.16 sec
+        Start  17: bech32_tests
+ 17/137 Test  #17: bech32_tests .........................   Passed    0.16 sec
+        Start  18: bip32_tests
+ 18/137 Test  #18: bip32_tests ..........................   Passed    0.25 sec
+        Start  19: bip324_tests
+ 19/137 Test  #19: bip324_tests .........................   Passed    1.08 sec
+        Start  20: blockchain_tests
+ 20/137 Test  #20: blockchain_tests .....................   Passed    2.01 sec
+        Start  21: blockencodings_tests
+ 21/137 Test  #21: blockencodings_tests .................   Passed    0.75 sec
+        Start  22: blockfilter_index_tests
+ 22/137 Test  #22: blockfilter_index_tests ..............   Passed    4.26 sec
+        Start  23: blockfilter_tests
+ 23/137 Test  #23: blockfilter_tests ....................   Passed    0.15 sec
+        Start  24: blockmanager_tests
+ 24/137 Test  #24: blockmanager_tests ...................   Passed    6.36 sec
+        Start  25: bloom_tests
+ 25/137 Test  #25: bloom_tests ..........................   Passed    0.24 sec
+        Start  26: bswap_tests
+ 26/137 Test  #26: bswap_tests ..........................   Passed    0.15 sec
+        Start  27: checkqueue_tests
+ 27/137 Test  #27: checkqueue_tests .....................   Passed    3.31 sec
+        Start  28: cluster_linearize_tests
+ 28/137 Test  #28: cluster_linearize_tests ..............   Passed    0.17 sec
+        Start  29: coins_tests
+ 29/137 Test  #29: coins_tests ..........................   Passed   20.30 sec
+        Start  30: coinscachepair_tests
+ 30/137 Test  #30: coinscachepair_tests .................   Passed    0.17 sec
+        Start  31: coinstatsindex_tests
+ 31/137 Test  #31: coinstatsindex_tests .................   Passed    4.40 sec
+        Start  32: common_url_tests
+ 32/137 Test  #32: common_url_tests .....................   Passed    0.16 sec
+        Start  33: compilerbug_tests
+ 33/137 Test  #33: compilerbug_tests ....................   Passed    0.15 sec
+        Start  34: compress_tests
+ 34/137 Test  #34: compress_tests .......................   Passed    0.41 sec
+        Start  35: crypto_tests
+ 35/137 Test  #35: crypto_tests .........................   Passed    2.53 sec
+        Start  36: cuckoocache_tests
+ 36/137 Test  #36: cuckoocache_tests ....................   Passed    1.17 sec
+        Start  37: dbwrapper_tests
+ 37/137 Test  #37: dbwrapper_tests ......................   Passed    1.72 sec
+        Start  38: denialofservice_tests
+ 38/137 Test  #38: denialofservice_tests ................   Passed    0.58 sec
+        Start  39: descriptor_tests
+ 39/137 Test  #39: descriptor_tests .....................   Passed    0.85 sec
+        Start  40: disconnected_transactions
+ 40/137 Test  #40: disconnected_transactions ............   Passed    1.95 sec
+        Start  41: feefrac_tests
+ 41/137 Test  #41: feefrac_tests ........................   Passed    0.15 sec
+        Start  42: flatfile_tests
+ 42/137 Test  #42: flatfile_tests .......................   Passed    0.28 sec
+        Start  43: fs_tests
+ 43/137 Test  #43: fs_tests .............................   Passed    0.22 sec
+        Start  44: getarg_tests
+ 44/137 Test  #44: getarg_tests .........................   Passed    0.22 sec
+        Start  45: hash_tests
+ 45/137 Test  #45: hash_tests ...........................   Passed    0.18 sec
+        Start  46: headers_sync_chainwork_tests
+ 46/137 Test  #46: headers_sync_chainwork_tests .........   Passed    0.39 sec
+        Start  47: httpserver_tests
+ 47/137 Test  #47: httpserver_tests .....................   Passed    0.16 sec
+        Start  48: i2p_tests
+ 48/137 Test  #48: i2p_tests ............................   Passed    0.20 sec
+        Start  49: interfaces_tests
+ 49/137 Test  #49: interfaces_tests .....................   Passed   10.96 sec
+        Start  50: key_io_tests
+ 50/137 Test  #50: key_io_tests .........................   Passed    0.18 sec
+        Start  51: key_tests
+ 51/137 Test  #51: key_tests ............................   Passed    0.45 sec
+        Start  52: logging_tests
+ 52/137 Test  #52: logging_tests ........................   Passed    0.30 sec
+        Start  53: mempool_tests
+ 53/137 Test  #53: mempool_tests ........................   Passed    0.55 sec
+        Start  54: merkle_tests
+ 54/137 Test  #54: merkle_tests .........................   Passed    1.42 sec
+        Start  55: merkleblock_tests
+ 55/137 Test  #55: merkleblock_tests ....................   Passed    0.15 sec
+        Start  56: miner_tests
+ 56/137 Test  #56: miner_tests ..........................   Passed    5.36 sec
+        Start  57: miniminer_tests
+ 57/137 Test  #57: miniminer_tests ......................   Passed    8.95 sec
+        Start  58: miniscript_tests
+ 58/137 Test  #58: miniscript_tests .....................   Passed    2.93 sec
+        Start  59: minisketch_tests
+ 59/137 Test  #59: minisketch_tests .....................   Passed    0.27 sec
+        Start  60: multisig_tests
+ 60/137 Test  #60: multisig_tests .......................   Passed    0.21 sec
+        Start  61: net_peer_connection_tests
+ 61/137 Test  #61: net_peer_connection_tests ............   Passed    0.23 sec
+        Start  62: net_peer_eviction_tests
+ 62/137 Test  #62: net_peer_eviction_tests ..............   Passed    0.32 sec
+        Start  63: net_tests
+ 63/137 Test  #63: net_tests ............................   Passed    4.19 sec
+        Start  64: netbase_tests
+ 64/137 Test  #64: netbase_tests ........................   Passed    0.27 sec
+        Start  65: node_warnings_tests
+ 65/137 Test  #65: node_warnings_tests ..................   Passed    0.16 sec
+        Start  66: orphanage_tests
+ 66/137 Test  #66: orphanage_tests ......................   Passed    0.79 sec
+        Start  67: pcp_tests
+ 67/137 Test  #67: pcp_tests ............................   Passed    0.22 sec
+        Start  68: peerman_tests
+ 68/137 Test  #68: peerman_tests ........................   Passed    0.26 sec
+        Start  69: pmt_tests
+ 69/137 Test  #69: pmt_tests ............................   Passed    0.59 sec
+        Start  70: policy_fee_tests
+ 70/137 Test  #70: policy_fee_tests .....................   Passed    0.16 sec
+        Start  71: policyestimator_tests
+ 71/137 Test  #71: policyestimator_tests ................   Passed    5.25 sec
+        Start  72: pool_tests
+ 72/137 Test  #72: pool_tests ...........................   Passed    0.23 sec
+        Start  73: pow_tests
+ 73/137 Test  #73: pow_tests ............................   Passed    0.29 sec
+        Start  74: prevector_tests
+ 74/137 Test  #74: prevector_tests ......................   Passed    0.74 sec
+        Start  75: raii_event_tests
+ 75/137 Test  #75: raii_event_tests .....................   Passed    0.17 sec
+        Start  76: random_tests
+ 76/137 Test  #76: random_tests .........................   Passed    5.92 sec
+        Start  77: rbf_tests
+ 77/137 Test  #77: rbf_tests ............................   Passed    5.56 sec
+        Start  78: rest_tests
+ 78/137 Test  #78: rest_tests ...........................   Passed    0.16 sec
+        Start  79: result_tests
+ 79/137 Test  #79: result_tests .........................   Passed    0.15 sec
+        Start  80: reverselock_tests
+ 80/137 Test  #80: reverselock_tests ....................   Passed    0.15 sec
+        Start  81: rpc_tests
+ 81/137 Test  #81: rpc_tests ............................   Passed    0.88 sec
+        Start  82: sanity_tests
+ 82/137 Test  #82: sanity_tests .........................   Passed    0.17 sec
+        Start  83: scheduler_tests
+ 83/137 Test  #83: scheduler_tests ......................   Passed    0.24 sec
+        Start  84: script_p2sh_tests
+ 84/137 Test  #84: script_p2sh_tests ....................   Passed    0.24 sec
+        Start  85: script_parse_tests
+ 85/137 Test  #85: script_parse_tests ...................   Passed    0.16 sec
+        Start  86: script_segwit_tests
+ 86/137 Test  #86: script_segwit_tests ..................   Passed    0.24 sec
+        Start  87: script_standard_tests
+ 87/137 Test  #87: script_standard_tests ................   Passed    0.25 sec
+        Start  88: script_tests
+ 88/137 Test  #88: script_tests .........................   Passed    1.06 sec
+        Start  89: scriptnum_tests
+ 89/137 Test  #89: scriptnum_tests ......................   Passed    0.19 sec
+        Start  90: serfloat_tests
+ 90/137 Test  #90: serfloat_tests .......................   Passed    0.80 sec
+        Start  91: serialize_tests
+ 91/137 Test  #91: serialize_tests ......................   Passed    0.32 sec
+        Start  92: settings_tests
+ 92/137 Test  #92: settings_tests .......................   Passed    0.20 sec
+        Start  93: sighash_tests
+ 93/137 Test  #93: sighash_tests ........................   Passed    0.71 sec
+        Start  94: sigopcount_tests
+ 94/137 Test  #94: sigopcount_tests .....................   Passed    0.16 sec
+        Start  95: skiplist_tests
+ 95/137 Test  #95: skiplist_tests .......................   Passed    0.59 sec
+        Start  96: sock_tests
+ 96/137 Test  #96: sock_tests ...........................   Passed    0.18 sec
+        Start  97: span_tests
+ 97/137 Test  #97: span_tests ...........................   Passed    0.15 sec
+        Start  98: streams_tests
+ 98/137 Test  #98: streams_tests ........................   Passed    0.44 sec
+        Start  99: sync_tests
+ 99/137 Test  #99: sync_tests ...........................   Passed    0.16 sec
+        Start 100: system_tests
+100/137 Test #100: system_tests .........................***Skipped   0.17 sec
+        Start 101: timeoffsets_tests
+101/137 Test #101: timeoffsets_tests ....................   Passed    0.18 sec
+        Start 102: torcontrol_tests
+102/137 Test #102: torcontrol_tests .....................   Passed    0.16 sec
+        Start 103: transaction_tests
+103/137 Test #103: transaction_tests ....................   Passed    9.01 sec
+        Start 104: translation_tests
+104/137 Test #104: translation_tests ....................   Passed    0.15 sec
+        Start 105: txdownload_tests
+105/137 Test #105: txdownload_tests .....................   Passed    3.92 sec
+        Start 106: txindex_tests
+106/137 Test #106: txindex_tests ........................   Passed    3.37 sec
+        Start 107: txpackage_tests
+107/137 Test #107: txpackage_tests ......................   Passed   17.26 sec
+        Start 108: txreconciliation_tests
+108/137 Test #108: txreconciliation_tests ...............   Passed    0.18 sec
+        Start 109: txrequest_tests
+109/137 Test #109: txrequest_tests ......................   Passed    3.23 sec
+        Start 110: txvalidation_tests
+110/137 Test #110: txvalidation_tests ...................   Passed    2.21 sec
+        Start 111: txvalidationcache_tests
+111/137 Test #111: txvalidationcache_tests ..............   Passed    5.80 sec
+        Start 112: uint256_tests
+112/137 Test #112: uint256_tests ........................   Passed    0.16 sec
+        Start 113: util_string_tests
+113/137 Test #113: util_string_tests ....................   Passed    0.19 sec
+        Start 114: util_tests
+114/137 Test #114: util_tests ...........................   Passed    0.58 sec
+        Start 115: util_threadnames_tests
+115/137 Test #115: util_threadnames_tests ...............   Passed    0.17 sec
+        Start 116: util_trace_tests
+116/137 Test #116: util_trace_tests .....................   Passed    0.18 sec
+        Start 117: validation_block_tests
+117/137 Test #117: validation_block_tests ...............   Passed   26.80 sec
+        Start 118: validation_chainstate_tests
+118/137 Test #118: validation_chainstate_tests ..........   Passed    2.96 sec
+        Start 119: validation_chainstatemanager_tests
+119/137 Test #119: validation_chainstatemanager_tests ...   Passed   42.50 sec
+        Start 120: validation_flush_tests
+120/137 Test #120: validation_flush_tests ...............   Passed    0.23 sec
+        Start 121: validation_tests
+121/137 Test #121: validation_tests .....................   Passed    0.45 sec
+        Start 122: validationinterface_tests
+122/137 Test #122: validationinterface_tests ............   Passed    0.48 sec
+        Start 123: versionbits_tests
+123/137 Test #123: versionbits_tests ....................   Passed    2.49 sec
+        Start 124: db_tests
+124/137 Test #124: db_tests .............................   Passed   29.52 sec
+        Start 125: coinselector_tests
+125/137 Test #125: coinselector_tests ...................   Passed   30.93 sec
+        Start 126: feebumper_tests
+126/137 Test #126: feebumper_tests ......................   Passed    0.21 sec
+        Start 127: group_outputs_tests
+127/137 Test #127: group_outputs_tests ..................   Passed    0.93 sec
+        Start 128: init_tests
+128/137 Test #128: init_tests ...........................   Passed    0.25 sec
+        Start 129: ismine_tests
+129/137 Test #129: ismine_tests .........................   Passed    0.17 sec
+        Start 130: psbt_wallet_tests
+130/137 Test #130: psbt_wallet_tests ....................   Passed    0.55 sec
+        Start 131: scriptpubkeyman_tests
+131/137 Test #131: scriptpubkeyman_tests ................   Passed    0.17 sec
+        Start 132: spend_tests
+132/137 Test #132: spend_tests ..........................   Passed    6.33 sec
+        Start 133: wallet_crypto_tests
+133/137 Test #133: wallet_crypto_tests ..................   Passed    2.57 sec
+        Start 134: wallet_tests
+134/137 Test #134: wallet_tests .........................   Passed   47.99 sec
+        Start 135: wallet_transaction_tests
+135/137 Test #135: wallet_transaction_tests .............   Passed    0.21 sec
+        Start 136: walletdb_tests
+136/137 Test #136: walletdb_tests .......................   Passed    2.07 sec
+        Start 137: walletload_tests
+137/137 Test #137: walletload_tests .....................   Passed    3.22 sec
+
+100% tests passed, 0 tests failed out of 137
+
+Total Test time (real) = 602.78 sec
+
+The following tests did not run:
+	100 - system_tests (Skipped)
